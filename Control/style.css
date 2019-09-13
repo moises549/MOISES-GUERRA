@@ -1,0 +1,195 @@
+td.horario {
+    font-family:"Trebuchet MS";
+    font-size: 10px;
+}
+td.texto{
+    font-family:"Trebuchet MS";
+    font-size: 10px;
+    padding: 5;
+}
+td.titulo{
+font-family: "Trebuchet MS";
+background-color: #84ca84;
+color: #ffffff;
+font-size: 12px;
+}
+td.hoy{
+font-family: "Trebuchet MS";
+color: #990000;
+font-size: 16px;
+background-color: #84ca84;
+}
+td.cita{
+    font-family: "Trebuchet MS";
+   color: #999999;
+    font-size: 12px;
+}
+a.linkMes:Link{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+
+    font-size: 12px;
+    color: #000000;
+}
+a.linkMes:hover{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.linkMes:visited{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.linkMes:active{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.edit:link{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a.edit:hover{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a.edit:visited{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a.edit:active{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a.averTarea:link{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a.averTarea:hover{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.averTarea:visited{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.averTarea:active{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000000;
+}
+a.detalle:link{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #990000;
+}
+a.detalle:hover{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #990000;
+}
+a.detalle:visited{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #990000;
+}
+a.detalle:active{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #990000;
+}
+input{
+    font-size: 12px;
+    border:solid 1px #c0c0c0;
+}
+select{
+    font-size: 12px;
+    }
+textarea{
+    font-size: 12px;
+    border:solid 1px #c0c0c0;
+}
+a:link{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a:hover{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a:visited{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+a:active{
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+    color: #000080;
+}
+.mensaje{
+    color: #990000;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+}
+.bienvenido{
+    color: #990000;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    padding:  5;
+}
+.bienvenido:link{
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color:#000000;
+}
+.bienvenido:hover{
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color:#000000;
+}
+.bienvenido:visited{
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color:#000000;
+}
+.bienvenido:active{
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color:#000000;
+}
